@@ -7,7 +7,7 @@ public:
         for (int i=0;i<n;i++)
         {
             int x = (i + k)%n;
-            nums1[(i + k) % n] = nums[i];
+            nums1[x] = nums[i];
         }
         for (int i=0;i<n;i++)
         {
