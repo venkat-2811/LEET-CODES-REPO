@@ -6,6 +6,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0485-max-consecutive-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/1435-xor-queries-of-a-subarray) |
 ## Two Pointers
 |  |
