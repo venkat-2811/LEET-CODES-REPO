@@ -8,6 +8,7 @@
 | [0136-single-number](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0525-contiguous-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/1435-xor-queries-of-a-subarray) |
 ## Two Pointers
 |  |
@@ -28,12 +29,14 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0525-contiguous-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0268-missing-number) |
+| [0525-contiguous-array](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0525-contiguous-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Math
 |  |
