@@ -7,6 +7,7 @@
 | [0075-sort-colors](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0525-contiguous-array) |
@@ -20,6 +21,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -38,6 +40,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0525-contiguous-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -61,4 +64,5 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
