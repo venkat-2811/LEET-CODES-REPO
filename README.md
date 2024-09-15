@@ -24,14 +24,17 @@
 | [0136-single-number](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0268-missing-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0268-missing-number) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Math
 |  |
 | ------- |
@@ -40,4 +43,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/venkat-2811/LEET-CODES-REPO/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 <!---LeetCode Topics End-->
